@@ -1,0 +1,6 @@
+ESP32-S3R8 based custom MCU board.
+Design around the ESP32-S3R8 follows the design around ESP32-S3-WROOM-1-N16R8.
+
+Notes (to myself):
+- PSRAM included on ESP32-S3R9 chip.
+- 3.3V devices, VDD_SPI is in the 3.3V domain.

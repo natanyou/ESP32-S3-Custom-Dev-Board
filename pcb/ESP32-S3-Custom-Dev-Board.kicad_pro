@@ -653,7 +653,7 @@
     "meta": {
       "version": 1
     },
-    "page_layout_descr_file": "",
+    "page_layout_descr_file": "kicad-embed://myCustomSheet.kicad_wks",
     "plot_directory": "",
     "reuse_designators": true,
     "subpart_first_id": 65,
@@ -662,13 +662,18 @@
       {
         "filename": "ESP32-S3-Custom-Dev-Board.kicad_sch",
         "name": "ESP32-S3-Custom-Dev-Board",
-        "uuid": "00000000-0000-0000-0000-000000000000"
+        "uuid": "ead4af29-d381-4c91-ae58-daa87ccda966"
       }
     ],
-    "used_designators": "",
+    "used_designators": "#PWR1-27,AE1,C1-2,C5-7,C11-12,C16-17,D1,L1-3,L5,R1-5,R17,U1-2,Y1",
     "variants": []
   },
-  "sheets": [],
+  "sheets": [
+    [
+      "ead4af29-d381-4c91-ae58-daa87ccda966",
+      "ESP32-S3-Custom-Dev-Board"
+    ]
+  ],
   "text_variables": {},
   "tuning_profiles": {
     "meta": {
